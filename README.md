@@ -3,6 +3,8 @@
 
 This is a simple Express.js API with JSON Web Token (JWT) authentication for managing user notes. It provides endpoints for CRUD operations on notes, sharing notes, and searching for users.
 
+# TechStack used - Express,Node,Typescrit,Docker,Postgres and JWT 
+
 ## Setup
 ### Clone the repository:
 #### git clone <repository-url>
